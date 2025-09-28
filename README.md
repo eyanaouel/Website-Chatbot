@@ -1,6 +1,5 @@
 # TEK-UP Website Chatbot
 
-![Chatbot](https://img.shields.io/badge/status-active-success)
 
 ## Overview
 This project implements an AI-powered chatbot for the TEK-UP University website.  
@@ -28,11 +27,3 @@ The chatbot can answer user questions accurately using a pre-populated vector da
 - `.env` - Stores `GROQ_API_KEY` (not tracked in Git)
 - `requirements.txt` - Python dependencies
 
----
-
-## Setup
-
-1. Clone the repository:
-```bash
-git clone https://github.com/eyanaouel/TEKUP_Chatbot.git
-cd TEKUP_Chatbot
